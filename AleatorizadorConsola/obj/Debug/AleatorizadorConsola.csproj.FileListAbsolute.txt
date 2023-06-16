@@ -1,0 +1,8 @@
+C:\Users\josei\source\repos\test examen\AleatorizadorConsola\bin\Debug\AleatorizadorConsola.exe.config
+C:\Users\josei\source\repos\test examen\AleatorizadorConsola\bin\Debug\AleatorizadorConsola.exe
+C:\Users\josei\source\repos\test examen\AleatorizadorConsola\bin\Debug\AleatorizadorConsola.pdb
+C:\Users\josei\source\repos\test examen\AleatorizadorConsola\obj\Debug\AleatorizadorConsola.csproj.AssemblyReference.cache
+C:\Users\josei\source\repos\test examen\AleatorizadorConsola\obj\Debug\AleatorizadorConsola.csproj.SuggestedBindingRedirects.cache
+C:\Users\josei\source\repos\test examen\AleatorizadorConsola\obj\Debug\AleatorizadorConsola.csproj.CoreCompileInputs.cache
+C:\Users\josei\source\repos\test examen\AleatorizadorConsola\obj\Debug\AleatorizadorConsola.exe
+C:\Users\josei\source\repos\test examen\AleatorizadorConsola\obj\Debug\AleatorizadorConsola.pdb

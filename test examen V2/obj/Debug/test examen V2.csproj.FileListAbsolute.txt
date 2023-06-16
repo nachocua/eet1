@@ -1,0 +1,8 @@
+C:\Users\josei\source\repos\test examen\test examen V2\bin\Debug\test examen V2.exe.config
+C:\Users\josei\source\repos\test examen\test examen V2\bin\Debug\test examen V2.exe
+C:\Users\josei\source\repos\test examen\test examen V2\bin\Debug\test examen V2.pdb
+C:\Users\josei\source\repos\test examen\test examen V2\obj\Debug\test examen V2.csproj.AssemblyReference.cache
+C:\Users\josei\source\repos\test examen\test examen V2\obj\Debug\test examen V2.csproj.SuggestedBindingRedirects.cache
+C:\Users\josei\source\repos\test examen\test examen V2\obj\Debug\test examen V2.csproj.CoreCompileInputs.cache
+C:\Users\josei\source\repos\test examen\test examen V2\obj\Debug\test examen V2.exe
+C:\Users\josei\source\repos\test examen\test examen V2\obj\Debug\test examen V2.pdb

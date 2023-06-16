@@ -1,0 +1,8 @@
+C:\Users\josei\source\repos\test examen\Baraja de Cartas\bin\Debug\Baraja de Cartas.exe.config
+C:\Users\josei\source\repos\test examen\Baraja de Cartas\bin\Debug\Baraja de Cartas.exe
+C:\Users\josei\source\repos\test examen\Baraja de Cartas\bin\Debug\Baraja de Cartas.pdb
+C:\Users\josei\source\repos\test examen\Baraja de Cartas\obj\Debug\Baraja de Cartas.csproj.AssemblyReference.cache
+C:\Users\josei\source\repos\test examen\Baraja de Cartas\obj\Debug\Baraja de Cartas.csproj.SuggestedBindingRedirects.cache
+C:\Users\josei\source\repos\test examen\Baraja de Cartas\obj\Debug\Baraja de Cartas.csproj.CoreCompileInputs.cache
+C:\Users\josei\source\repos\test examen\Baraja de Cartas\obj\Debug\Baraja de Cartas.exe
+C:\Users\josei\source\repos\test examen\Baraja de Cartas\obj\Debug\Baraja de Cartas.pdb
